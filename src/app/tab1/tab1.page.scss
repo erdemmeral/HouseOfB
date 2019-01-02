@@ -3,6 +3,7 @@
   max-height: 30vh;
   //max-height: 10vh;
   overflow: hidden;
+  background: rgba(255,0,0,0.5);
 }
 
 ion-header {
@@ -16,4 +17,9 @@ ion-header {
   margin-left: auto;
   margin-right: auto;
   max-height: 11vh;
+}
+ion-col{
+  zoom:2.0;
+  color:var(--ion-color-primary);
+  text-align:center;
 }
