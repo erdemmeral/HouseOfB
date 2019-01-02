@@ -10,3 +10,14 @@ ion-header {
   margin-right: auto;
   max-height: 11vh;
 }
+
+ion-col{
+  zoom:2.0;
+  color:var(--ion-color-primary);
+  text-align:center;
+}
+
+.contactimg{
+  height:15%;
+  width: auto;
+}
